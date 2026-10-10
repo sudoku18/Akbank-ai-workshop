@@ -1,0 +1,7 @@
+{
+  "name": "CareerPulse - AI Interview & Career Coach",
+  "description": "Role and interviewer-title tailored interview question simulator, STAR answer feedback, and career upskilling training pathway advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
